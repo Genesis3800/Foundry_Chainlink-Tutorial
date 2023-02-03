@@ -35,11 +35,7 @@ Learn more about Foundry: Foundry: [A fast Solidity smart contract development t
 
 ## Quick start
 
-### Clone this repository
-
-```sh
-git clone https://github.com/soos3d/Foundry_Chainlink-Tutorial.git
-```
+Clone this repository.
 
 ### Install Foundry
 
