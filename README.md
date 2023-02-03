@@ -99,11 +99,7 @@ Deploy a Goerli node:
 
 ## Install
 
-Clone this repository
-
-```sh
-git clone https://github.com/soos3d/Foundry_Chainlink-Tutorial.git
-```
+Clone this repository.
 
 Install Foundry
 
