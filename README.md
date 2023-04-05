@@ -89,9 +89,6 @@ Deploy a Goerli node:
 1. [Deploy a node](https://docs.chainstack.com/platform/join-a-public-network).  
 1. [View node access and credentials](https://docs.chainstack.com/platform/view-node-access-and-credentials). 
 
-## Dependencies
-
-* [Foundry toolkit](https://github.com/foundry-rs/foundry)
 
 ## Install
 
